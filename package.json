@@ -1,0 +1,26 @@
+{
+  "name": "vanityeth",
+  "version": "1.0.0",
+  "description": "Let's customize your personal ETH wallet adress; VanityEth accepts as input an hexa pattern (f00d, ace777, b0b8, ..)",
+  "main": "iexec.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iExecBlockchainComputing/iexec-dapp-samples.git"
+  },
+  "author": {
+    "name": "Jeremy James T."
+  },
+  "license": "MIT",
+  "social": {
+    "website": "https://www.myetherwallet.com/",
+    "github": "https://github.com/MyEtherWallet/VanityEth#readme"
+  },
+  "homepage": "https://github.com/iExecBlockchainComputing/iexec-dapp-samples/tree/vanityeth#readme",
+  "bugs": {
+    "url": "https://github.com/iExecBlockchainComputing/iexec-dapp-samples/issues"
+  },
+  "logo": "logo.png",
+  "dependencies": {
+    "iexec-oracle-contract": "1.1.7"
+  }
+}
